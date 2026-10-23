@@ -1,11 +1,10 @@
 hi, this is p21 file
-<<<<<<< HEAD
-<<<<<<< HEAD
 edit this file, again edit this file,fd
 fd
 fdf
 d
 main main miaon omainmananknffas
-=======
 edit this file, again edit this file
->>>>>>> parent of efdff2d (commit4)
+ parent of efdff2d (commit4)
+edit this file, again edit this file
+parent of efdff2d (commit4)
