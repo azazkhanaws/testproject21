@@ -1,4 +1,5 @@
 hi, this is p21 file
+<<<<<<< HEAD
 edit this file, again edit this file,fd
 fd
 fdf
@@ -8,3 +9,6 @@ edit this file, again edit this file
  parent of efdff2d (commit4)
 edit this file, again edit this file
 parent of efdff2d (commit4)
+=======
+edit this file
+>>>>>>> parent of 8f07207 (commit3)
